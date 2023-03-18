@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 openai = "^0.27.2"
+llama-index = "^0.4.29"
 
 
 [tool.poetry.group.dev.dependencies]
