@@ -11,6 +11,7 @@ openai = "^0.27.2"
 llama-index = "^0.4.29"
 langchain = "^0.0.115"
 unstructured = "^0.5.4"
+chromadb = "^0.3.11"
 
 
 [tool.poetry.group.dev.dependencies]
